@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Data Analyst
 ---------------------
 
-I am a data-focused, results-oriented professional with a strong foundation in customer service, operational management, and basic programming skills. Driven by a passion for data insights, I am eager to leverage my analytical mindset and foundational knowledge in digital marketing and coding to drive data-driven decision-making. I am committed to continuous learning and aspire to excel in a data analysis role by combining my skills in communication, data interpretation, and problem-solving. I am currently engaged in a 12-week intensive Digital Skills Bootcamp in Data with JustIT training. I am looking to build on my skills and develop new skills to develop a career as a data analyst. I have completed several data projects using Excel, SQL, Python, R, Tableau and PowerBI which have been posted in my GitHub and Tableau Public portfolios. My immediate goal is to become established in a role as a Data Technician or Apprentice and work with like-minded individuals from whom I can learn as much as possible during my crucial years of development.
+I am a data-focused, results-oriented professional with a strong foundation in customer service, operational management, and basic programming skills. Driven by a passion for data insights, I am eager to leverage my analytical mindset and foundational knowledge in digital marketing and coding to drive data-driven decision-making. I am committed to continuous learning and aspire to excel in a data analysis role by combining my skills in communication, data interpretation, and problem-solving. 
+
+I am currently engaged in a 12-week intensive Digital Skills Bootcamp in Data with JustIT training. I am looking to build on my skills and develop new skills to develop a career as a data analyst. I have completed several data projects using Excel, SQL, Python, R, Tableau and PowerBI which have been posted in my GitHub and Tableau Public portfolios. 
+
+My immediate goal is to become established in a role as a Data Technician or Apprentice and work with like-minded individuals from whom I can learn as much as possible during my crucial years of development.
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [exponentialresults1973@gmail.com](mailto:exponentialresults1973@gmail.com)
@@ -28,6 +32,5 @@ I am a data-focused, results-oriented professional with a strong foundation in c
 
 <a href="http://www.github.com/ChinweP"><img src="https://github-readme-stats.vercel.app/api?username=ChinweP&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ChinweP's GitHub stats" /></a>
 
-<a href="http://www.github.com/ChinweP"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ChinweP&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/ChinweP" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinweP&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
