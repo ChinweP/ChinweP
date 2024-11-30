@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chinwe Chukwuma
 =======================================================================================================================================
 
-Aspiring Data Analyst
+Data Analyst
 ---------------------
 
 I am a data-focused, results-oriented professional with a strong foundation in customer service, operational management, and basic programming skills. Driven by a passion for data insights, I am eager to leverage my analytical mindset and foundational knowledge in digital marketing and coding to drive data-driven decision-making. I am committed to continuous learning and aspire to excel in a data analysis role by combining my skills in communication, data interpretation, and problem-solving. 
