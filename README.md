@@ -6,7 +6,7 @@ Data Analyst
 
 I am a data-focused, results-oriented professional with a strong foundation in customer service, operational management, and basic programming skills. Driven by a passion for data insights, I am eager to leverage my analytical mindset and foundational knowledge in digital marketing and coding to drive data-driven decision-making. I am committed to continuous learning and aspire to excel in a data analysis role by combining my skills in communication, data interpretation, and problem-solving. 
 
-I currently completed a 12-week intensive Digital Skills Bootcamp in Data with JustIT training. I am looking to build on my skills and develop new skills to develop a career as a data analyst. I have completed several data projects using Excel, SQL, Python, R, Tableau and PowerBI which have been posted in my GitHub and Tableau Public portfolios. 
+I currently completed a 12-week intensive Digital Skills Bootcamp in Data with JustIT training. I am looking to build on my skills and develop new skills to develop a career as a data analyst. I have completed several data projects using Excel, SQL, Python, R, Tableau and PowerBI. 
 
 My immediate goal is to become established in a role as a Data Technician or Apprentice and work with like-minded individuals from whom I can learn as much as possible during my crucial years of development.
 
